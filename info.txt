@@ -1,0 +1,10 @@
+Bienvenidos al curso de cypress
+
+1.-npm init 
+
+2.-npm install cypress --save-dev ---> insnatalacion
+
+3.- node_modules/.bin/cypress open
+
+
+Problema con slash (/) y backslash (\
